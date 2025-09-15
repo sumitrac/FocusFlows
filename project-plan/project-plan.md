@@ -15,6 +15,7 @@ The project is structured with a frontend (React) and a backend (Node.js/Express
 ---
 
 ## Repo Structure
+```
 FocusFlows/
 ├── README.md
 ├── project-plan/
@@ -23,6 +24,7 @@ FocusFlows/
 ├── frontend/ # React app
 ├── backend/ # Node.js/Express or Python API
 └── .gitignore
+```
 
 ---
 
